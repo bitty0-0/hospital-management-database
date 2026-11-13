@@ -14,8 +14,8 @@ The database contains six tables:
 The diagram below shows the structure of the database and the relationships between the tables.
 
 #Features
-  Created six database tables.
-  Set up primary keys and foreign keys.
+- Created six database tables.
+- Set up primary keys and foreign keys.
 - Created relationships between tables.
 - Added sample records.
 - Wrote SQL queries to retrieve and filter information.
@@ -28,7 +28,7 @@ The diagram below shows the structure of the database and the relationships betw
 - SQL
 - Entity Relationship Diagrams (ERD)
 
-## Skills Demonstrated
+#Skills Demonstrated
 - Relational database design
 - SQL programming
 - Primary and foreign keys
