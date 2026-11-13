@@ -3,6 +3,7 @@ This project is designing and creating a hospital management database using MySQ
 
 #Database Tables
 The database contains six tables:
+
   Department
   Staff
   Patient
