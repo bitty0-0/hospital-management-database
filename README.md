@@ -7,20 +7,15 @@ The database stores information about hospital departments, staff, patients, tre
 
 #Database Tables
 The database contains six tables:
-  Department
-  Staff
-  Patient
-  Treatment
-  Appointment
-- StaffLeave
+  Department, Staff,  Patient, Treatment, Appointment, StaffLeave
 
 #Entity Relationship Diagram
 
 The diagram below shows the structure of the database and the relationships between the tables.
 
 #Features
-- Created six database tables.
-- Set up primary keys and foreign keys.
+  Created six database tables.
+  Set up primary keys and foreign keys.
 - Created relationships between tables.
 - Added sample records.
 - Wrote SQL queries to retrieve and filter information.
