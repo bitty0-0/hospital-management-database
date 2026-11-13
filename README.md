@@ -7,11 +7,11 @@ The database stores information about hospital departments, staff, patients, tre
 
 #Database Tables
 The database contains six tables:
-- Department
-- Staff
-- Patient
-- Treatment
-- Appointment
+  Department
+  Staff
+  Patient
+  Treatment
+  Appointment
 - StaffLeave
 
 #Entity Relationship Diagram
