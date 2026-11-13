@@ -1,11 +1,11 @@
-# Hospital Management Database
+#Hospital Management Database
 
-## About the Project
+#About the Project
 This was a university database project where I designed and created a hospital management database using MySQL.
 
 The database stores information about hospital departments, staff, patients, treatments and appointments.
 
-## Database Tables
+#Database Tables
 The database contains six tables:
 - Department
 - Staff
@@ -14,13 +14,11 @@ The database contains six tables:
 - Appointment
 - StaffLeave
 
-## Entity Relationship Diagram
+#Entity Relationship Diagram
 
 The diagram below shows the structure of the database and the relationships between the tables.
 
-![Hospital Database ERD](hospital_database_erd.png)
-
-## Features
+#Features
 - Created six database tables.
 - Set up primary keys and foreign keys.
 - Created relationships between tables.
@@ -30,7 +28,7 @@ The diagram below shows the structure of the database and the relationships betw
 - Updated and deleted database records.
 - Considered Third Normal Form (3NF) when designing the database.
 
-## Technologies Used
+#Technologies Used
 - MySQL
 - SQL
 - Entity Relationship Diagrams (ERD)
